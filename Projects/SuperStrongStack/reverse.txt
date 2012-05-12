@@ -1,0 +1,5 @@
+The main program will do three (3) things: 
+1. Reverse each line of text in a file 
+2. Perform calculations on each expression written in a file, separated by a new line. 
+3. Check for balance parentheses of each line written in a file. 
+4. Check if a word is a palindrome.

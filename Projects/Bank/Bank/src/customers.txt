@@ -1,0 +1,10 @@
+TedMosbey 8 3
+Sabrina 12 9
+Chang 12 3
+Seye 14 6
+Olivira 15 5
+Rubén 15 3 Pokémon
+Ali 16 7
+Waleed 16 6
+Mohammad 16 4
+Carlos 40 20
